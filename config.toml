@@ -5,7 +5,6 @@ theme = "hugo-book"
 
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
-
 # Book configuration
 disablePathToLower = true
 enableGitInfo = true
@@ -28,33 +27,38 @@ enableGitInfo = true
   contentDir = 'content'
   weight = 1
 
-[languages.de]
+ [languages.de]
   languageName = 'German'
   contentDir = 'content.de'
   weight = 2
 
-[languages.zh]
-  languageName = 'Chinese'
-  contentDir = 'content.zh'
-  weight = 3
+# [languages.es]
+#  languageName = 'Spanish'
+#  contentDir = 'content.es'
+#  weight = 3
 
 [menu]
 # [[menu.before]]
 [[menu.after]]
   name = "Github"
-  url = "https://github.com/alex-shpak/hugo-book"
+  url = "https://github.com/consortium/"
   weight = 10
 
 [[menu.after]]
-  name = "Hugo Themes"
-  url = "https://themes.gohugo.io/hugo-book/"
+  name = "Twitter"
+  url = "https://twitter.com/pub_con"
   weight = 20
+
+[[menu.after]]
+  name = "Gitter chat"
+  url = "https://gitter.im/consortium"
+  weight = 30
 
 [params]
   # (Optional, default true) Controls table of contents visibility on right side of pages.
   # Start and end levels can be controlled with markup.tableOfContents setting.
   # You can also specify this parameter per page in front matter.
-  BookToC = true
+  BookToC = false
 
   # (Optional, default none) Set the path to a logo for the book. If the logo is
   # /static/logo.png then the path would be logo.png
@@ -71,12 +75,12 @@ enableGitInfo = true
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo = 'https://github.com/alex-shpak/hugo-book'
+  BookRepo = 'https://github.com/consortium/consortium-web'
 
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
   # Edit path must point to root directory of repo.
-  BookEditPath = 'edit/master/exampleSite'
+  BookEditPath = 'edit/master/'
 
   # Configure the date format used on the pages
   # - In git information
