@@ -1,4 +1,4 @@
-baseURL = "https://consortium.io/"
+baseURL = "https://web-staging.consortium.io/"
 languageCode = "en-us"
 title = "Hybrid Publishing Consortium"
 theme = "hugo-book"
