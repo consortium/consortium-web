@@ -3,90 +3,90 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://web-staging.consortium.io/posts/my-first-post/</loc>
+    <loc>https://consortium.io/posts/my-first-post/</loc>
     <lastmod>2020-07-08T17:36:01+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://web-staging.consortium.io/posts/</loc>
+    <loc>https://consortium.io/posts/</loc>
     <lastmod>2020-07-08T17:36:01+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://web-staging.consortium.io/home/</loc>
+    <loc>https://consortium.io/home/</loc>
     <lastmod>2020-07-08T17:36:01+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://web-staging.consortium.io/categories/</loc>
+    <loc>https://consortium.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://web-staging.consortium.io/de/categories/"
+                href="https://consortium.io/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://web-staging.consortium.io/categories/"
+                href="https://consortium.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://web-staging.consortium.io/docs/</loc>
+    <loc>https://consortium.io/docs/</loc>
     <lastmod>2020-07-08T20:02:58+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://web-staging.consortium.io/de/docs/"
+                href="https://consortium.io/de/docs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://web-staging.consortium.io/docs/"
+                href="https://consortium.io/docs/"
                 />
   </url>
   
   <url>
-    <loc>https://web-staging.consortium.io/docs/imprint/</loc>
+    <loc>https://consortium.io/docs/imprint/</loc>
     <lastmod>2020-07-08T20:02:58+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://web-staging.consortium.io/de/docs/imprint/"
+                href="https://consortium.io/de/docs/imprint/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://web-staging.consortium.io/docs/imprint/"
+                href="https://consortium.io/docs/imprint/"
                 />
   </url>
   
   <url>
-    <loc>https://web-staging.consortium.io/tags/</loc>
+    <loc>https://consortium.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://web-staging.consortium.io/de/tags/"
+                href="https://consortium.io/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://web-staging.consortium.io/tags/"
+                href="https://consortium.io/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://web-staging.consortium.io/</loc>
+    <loc>https://consortium.io/</loc>
     <lastmod>2020-07-08T20:02:58+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://web-staging.consortium.io/de/"
+                href="https://consortium.io/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://web-staging.consortium.io/"
+                href="https://consortium.io/"
                 />
   </url>
   
